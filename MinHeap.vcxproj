@@ -142,7 +142,6 @@
     <ClCompile Include="heaps.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="heaps.h" />
     <ClInclude Include="MinHeap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
